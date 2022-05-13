@@ -46,6 +46,20 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
-    }
+        "xutility": "cpp",
+        "list": "cpp",
+        "vector": "cpp"
+    },
+    "java.project.sourcePaths": [
+        "csci1913/labs/lab9",
+        "csci1913/labs/lab8",
+        "csci1913/labs/lab7",
+        "csci1913/labs/lab6",
+        "csci1913/Homework/Project2",
+        "csci1913/labs/lab10",
+        "csci1913\\labs\\lab11",
+        "csci1913\\labs",
+        "csci1913\\warmups",
+        "csci1913\\Homework\\Project3"
+    ]
 }
